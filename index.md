@@ -1,6 +1,10 @@
 # 1.Pengenalan VirtualBox, Linux, Web Server, dan Database Server
 
 ## VirtualBox
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png
+
+![GitHub Logo](vb1.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ### Download VirtualBox
 https://download.virtualbox.org/virtualbox/5.2.18/VirtualBox-5.2.18-124319-Win.exe
@@ -32,7 +36,7 @@ PHP: Hypertext Preprocessor adalah bahasa skrip yang dapat ditanamkan atau disis
 Database server adalah sebuah program komputer yang menyediakan layanan pengelolaan database dan melayani komputer atau program aplikasi database yang menggunakan model client/server. Istilah ini juga merujuk kepada sebuah komputer (umumnya merupakan server) yang didedikasikan untuk menjalankan program yang bersangkutan. Sistem manajemen database (SMBD) pada umumnya menyediakan fungsi-fungsi server database, dan beberapa SMBD (seperti halnya MySQL atau Microsoft SQL Server) sangat bergantung kepada model client-server untuk mengakses databasenya.
 
 ## phpMyAdmin
-phpMyAdmin adalah perangkat lunak *open source* yang ditulis dalam bahasa pemrograman PHP dan digunakan untuk melakukan administrasi MySQL melalui web. phpMyAdmin mendukung berbagai perintah pada MySQL, diantaranya melakukan perubahan database, tabel, bidang *fields*, *relations*, *index*, *users8, *permissions*, dan lain-lain.
+phpMyAdmin adalah perangkat lunak *open source* yang ditulis dalam bahasa pemrograman PHP dan digunakan untuk melakukan administrasi MySQL melalui web. phpMyAdmin mendukung berbagai perintah pada MySQL, diantaranya melakukan perubahan database, tabel, bidang *fields*, *relations*, *index*, *users*, *permissions*, dan lain-lain.
 
 
 
